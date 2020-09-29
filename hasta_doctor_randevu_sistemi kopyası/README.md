@@ -1,16 +1,7 @@
 # hasta_doctor_randevu_sistemi
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Resmi 2020-09-29 18 36 23](https://user-images.githubusercontent.com/68608836/94580646-d3f53a80-0282-11eb-9eb2-cfde11229a11.png)
+![Ekran Resmi 2020-09-29 18 37 00](https://user-images.githubusercontent.com/68608836/94580653-d5befe00-0282-11eb-8f01-9d2c24c6e475.png)
+![Ekran Resmi 2020-09-29 18 36 43](https://user-images.githubusercontent.com/68608836/94580662-d8b9ee80-0282-11eb-9d73-074525086cb9.png)
+![Ekran Resmi 2020-09-29 18 36 33](https://user-images.githubusercontent.com/68608836/94580673-da83b200-0282-11eb-971f-20c105a25661.png)
+![Ekran Resmi 2020-09-29 18 36 51](https://user-images.githubusercontent.com/68608836/94580839-0c951400-0283-11eb-8a52-9f7356c99ca1.png)
